@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amylour
-- 👀 I’m interested in HTML & CSS, especially learning sharper design with CSS. At the moment I am starting my JavaScript journey and really enjoying it.
-- 🌱 I’m currently learning Full Stack Software Development with the Code Institute 
+- 👀 I’m learning HTML, CSS, JavaScript and Python. I like to build things and write about things! Portfolio site under construction 🏗️
+- 🌱 I’m currently learning Full Stack Software Development with the Code Institute
 
 
 <!---
