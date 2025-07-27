@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @amylour
-- 👀 I’m currently learning React, Next.js, Tailwind and TypeScript.
-- 🌱 I am a Full Stack Developer and have worked with Django, HTML/CSS, JS, Python, Flask, Bootstrap and jQuery.
-- 📝 I sometimes write and post my articles and illustrations on Codú https://www.codu.co/amy-richardson-dev
-- 🏗️ Portfolio site under construction.
+- Hi there 👋
+- This GitHub is now dormant. I’ve stepped away from coding after riding out the highs and lows of the software job market (spoiler: it tanked).
+- I’ve decided to keep my docs live because a lot of time, care, and head-scratching went into them. They might still be useful to someone out there, and that’s good enough for me.
+
+- No new commits, but you're very welcome to explore what’s here. Thanks for stopping by 💻✨
+
 
 
 <!---
